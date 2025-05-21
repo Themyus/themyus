@@ -11,5 +11,3 @@
 ![Themyus GitHub stats](https://github-readme-stats.vercel.app/api?username=Themyus&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Themyus&layout=compact)
-
-- 💻 Desenvolvedor há mais de 8 meses, apaixonado em criar e ver resultados, atingindo pessoas e ideias diferentes. 
